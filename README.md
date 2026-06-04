@@ -196,7 +196,7 @@ Through this project, I gained hands-on experience in:
 
 ## 🔗 Connect With Me
 
-**Sandhya Maurya**
+**Sandhya Mourya**
 
 📌 LinkedIn: www.linkedin.com/in/sandhya-mourya-a92475286
 
