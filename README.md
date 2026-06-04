@@ -198,6 +198,6 @@ Through this project, I gained hands-on experience in:
 
 **Sandhya Maurya**
 
-📌 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+📌 LinkedIn: www.linkedin.com/in/sandhya-mourya-a92475286
 
 💡 SQL | MySQL Workbench | Data Analytics | Database Management
